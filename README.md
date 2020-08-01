@@ -1,4 +1,4 @@
 # hello-world
 Hi everyone,
 
-Roshini here. I like to learn Machine Learning and Artificial Intelligence.
+Roshini here. This is just an html file to know about me.
