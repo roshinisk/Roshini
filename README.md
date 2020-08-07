@@ -11,5 +11,11 @@ gcc star1.c
 
 ./a.out
 
+*Commands to compile and run fibonacci pattern*
+
+gcc fibonacci.c
+
+./a.out
+
 
 
