@@ -1,7 +1,7 @@
 ## ASSIGNMENT
 
 ## *Technology I would like to learn :*
-Helloo  how are yoou.
+I am deeply interested in learning Artificial Intelligence which deals with developing theories, methods, technologies, and application systems for simulating the extension and expansion of human intelligence.The use of artificial intelligence research is to make sure that machines can perform some complex tasks that require intelligent humans to complete.
 
 ## ***Commands to be given in the terminal***
 
