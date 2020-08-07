@@ -1,5 +1,4 @@
-##ASSIGNMENT
-
+ASSIGNMENT
 <snippet>
   <content>
 ## Technology I would like to learn: -
