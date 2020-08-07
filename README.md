@@ -1,9 +1,9 @@
 # hello-world
 Hi, this is me Roshini S Kumar.
 <snippet>
-  <content><
+  <content>
 ## Technology I would like to learn: -
-ROBOTICS AND ARTIFICIAL INTELLIGENCE>
+ROBOTICS AND ARTIFICIAL INTELLIGENCE
 </content>
-  <tabTrigger>readme</tabTrigger>
+  <tabTrigger></tabTrigger>
 </snippet>
